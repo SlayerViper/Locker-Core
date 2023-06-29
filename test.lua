@@ -11,4 +11,6 @@ function Locker:PlayerAdded(Player)
   print("b")
 end
 
+print("aa")
+
 return Locker
